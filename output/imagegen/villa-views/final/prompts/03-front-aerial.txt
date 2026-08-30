@@ -1,0 +1,7 @@
+Use case: precise-object-edit.
+Image 1 is the bird's-eye villa edit target. Image 2 is the geometry-only floor-plan reference.
+Recess the central second-floor family-lounge glazing 0.80 m behind the main facade plane.
+Keep a 1.60 m-deep central balcony: 0.80 m inside the main facade plane plus 0.80 m projecting outside it.
+Use a continuous 0.80 m horizontal overhang from the main black hip roof so its drip line aligns with the balcony outer railing and covers the recessed loggia.
+Preserve the right ground-floor master-bedroom projection; keep the right second floor on the main facade line and provide no terrace, railing, planter, or exterior door above the projection.
+Preserve the remaining massing, windows, entrance, materials, landscape, camera, lighting, and architectural language. No text, logo, watermark, people, or vehicles.
